@@ -16,6 +16,7 @@
     ],
     "require": {
         "php": ">=7.2",
+        "nece001/php-brawl-filesystem": "^1.0",
         "aliyuncs/oss-sdk-php": "~2.4"
     }
 }
